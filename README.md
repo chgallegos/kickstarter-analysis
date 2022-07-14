@@ -37,13 +37,13 @@ On the Second part of the analysis, the graph was not quite accurate, which brou
 
 A conclusion can be drawn that there seems to be a drop in both successful and failed campaigns between September and November (refer to image below)
 
-![Screenshot](Theater_Outcomes_vs_Launch.PNG)
+![alt text](https://github.com/chgallegos/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
 
 It seems like the Ôsweet spotÕ range that could have a good probability for a successful funding is between $35,000 and $50,000.(refer to image below)
 
-![Screenshot](Outcomes_vs_Goals.PNG)
+![alt text](https://github.com/chgallegos/kickstarter-analysis/blob/main/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
 
